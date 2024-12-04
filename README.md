@@ -101,11 +101,7 @@
  
 <p align="center">
   &emsp;
-    <a href="https://codeforces.com/profile/New_Bondoka"><img alt = "Codeforces" src="https://codeforces.com/predownloaded/ef/18/ef18d60f29c572514c03183827e1d797145d4149.png" width=60px/></a>	
-  &emsp;
-    <a href="https://leetcode.com/Abdoullah_2002/"><img alt = "Leetcode" src="https://camo.githubusercontent.com/72508db963e02251a74763caecdd2cc5a789f35fbc3bd35bdc99a7f6de96c5d4/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f4c656574436f64655f6c6f676f2e706e67" width=60px></a>
-  &emsp;
-    <a href="https://www.hackerrank.com/abdoullahzaki1"><img alt = "Hackerrank" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width=60px></a>
+    <a href="https://codeforces.com/profile/AbdoAtiia542"><img alt = "Codeforces" src="https://codeforces.com/predownloaded/ef/18/ef18d60f29c572514c03183827e1d797145d4149.png" width=60px/></a>	
 </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
