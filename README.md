@@ -3,15 +3,10 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=435&lines=Im+Computer+Science+Student;A+passionate+Spring+Developer;Compatitive+Programmer;Cooding+geek+..👨‍💻;love+to+talk+to+people,;share+ideas,;and+learn+in+public;If+that+sounds+interesting;Contact+with+me+🤜" alt="Typing SVG" /></a>
 </p>
-
-
 ##
- 
 <br>
 <picture> <img align="right" src="pictures/final.gif" width = 350rem></picture>
-
 <br>
-
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 - I am a `Senior` at [Faculty of Engineering - Systems and Computers Department](https://eng-azhar.net/) at [Al-Azhar University](http://azhar.edu.eg/).
@@ -20,17 +15,13 @@
 - I’m currently learning `Computer Science` and `Software Engineering`.
 - Always `learning new things`.
 - I’m currently open for an `Intern` or a `new job opportunity`
-
-
 <br><br>
 <p align="center"><img src="pictures/views.gif" width=50px alt="viwes" ></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=abdullahabdelglil" alt="abdullahabdelglil" width=150px> </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages :<br>
-
 <p align="center"> 
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
@@ -69,9 +60,7 @@
    <img alt="Hibernate" src="pictures/Hibernate_logo_a.png" width=200px>
   </a>  
 </p>
-
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools :<br>
- 
 <p align="center">
   &emsp;
     <a href="Git"><img alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width=50px></a>
@@ -119,14 +108,9 @@
     <a href="https://www.hackerrank.com/abdoullahzaki1"><img alt = "Hackerrank" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width=60px></a>
 </p>
 <br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 </p><br><br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
 ## <picture> <img src="https://cdn-icons-png.flaticon.com/128/7471/7471685.png" width="25px"> </picture> Contact me via :<br> 
 <p align="center">
 	<a href="mailto:abdoatiaa542@gmail.com"><img img src="pictures/Gmail_icon_(2020).svg.png" alt="Gmail" width=60px></a> 
