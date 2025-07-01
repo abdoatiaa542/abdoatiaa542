@@ -1,115 +1,140 @@
-<b>Assalamu Alaikum , I'm Abdelrahman Abdallah Atiia  </b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<br>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=435&lines=Im+Computer+Science+Student;A+passionate+Spring+Developer;Compatitive+Programmer;Cooding+geek+..👨‍💻;love+to+talk+to+people,;share+ideas,;and+learn+in+public;If+that+sounds+interesting;Contact+with+me+🤜" alt="Typing SVG" /></a>
-</p>
-##
-<br>
-<picture> <img align="right" src="pictures/final.gif" width = 350rem></picture>
-<br>
-<picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=1BF766&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile!;Back-End+Engineer+|+Spring+Boot+Specialist+🚀;Clean+Code+Advocate+|+OOP+%26+SOLID+Expert+✨;Collaborate+to+Innovate+%F0%9F%94%A5" alt="Typing SVG">
+</div>
 
-- I am a `Senior` at [Faculty of Engineering - Systems and Computers Department](https://eng-azhar.net/) at [Al-Azhar University](http://azhar.edu.eg/).
-- I love using Software as a solution for every `Problem`.
-- I am a competitive programmer at `Codeforces`, `Leetcode`.
-- I’m currently learning `Computer Science` and `Software Engineering`.
-- Always `learning new things`.
-- I’m currently open for an `Intern` or a `new job opportunity`
-<br><br>
-<p align="center"><img src="pictures/views.gif" width=50px alt="viwes" ></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=abdullahabdelglil" alt="abdullahabdelglil" width=150px> </p>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages :<br>
-<p align="center"> 
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" width = 60px>
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://cdn-icons-png.flaticon.com/128/6132/6132222.png" width=60px>
-  </a>
+<h1 align="center">🌟 Abdelrahman Abdalla Atiia 🌟</h1>
+<h3 align="center">Curious Back-End Engineer | Java Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <a href="mailto:abdoatiaa542@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/abdelrahman-abdalla-atiia-1a042b344/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/abdoatiaa542"><img src="https://img.shields.io/badge/GitHub-Check%20Out-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development :<br>
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://cdn-icons-png.flaticon.com/128/732/732212.png" width=50px>
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" width=50px>
-  </a> 
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" width=50px>
-   </a>
+---
+
+## 👨‍💻 About Me
+
+Hi there! I'm **Abdelrahman**, a **24-year-old Back-End Engineer with 2 years of official experience** passionate about building scalable, efficient, and user-centric applications. I specialize in **Java**, **Spring Boot**, and **database systems**, aiming to deliver clean, maintainable, and impactful software.
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 I-SOFT INTL — Backend Developer  
+**Mar 2025 – Present**
+
+- Developed backend systems for a **traffic monitoring solution** for Egypt’s Ministry of Interior using **Java**, **Spring Boot**, and **MongoDB**.
+- Built features for a **secure messaging platform** used by government entities in Dubai, working with **Traefik**, **Docker**, **OPA**, **MQTT**, and **Redis**.
+- Contributed to scalable microservices, integrated secure APIs, and maintained clean code and solid architecture.
+- Participated in agile development, collaborating across teams for end-to-end feature delivery.
+
+
+### 🏢 I-SOFT INTL — Backend Developer  
+**sep 2024 – JUN 2025**
+
+- Developed backend systems for an educational platform commissioned by the Ministry of Education in Morocco, using Java, Spring Boot, and MySQL to support digital learning across the country .
+- Built real-time communication features with WebSocket, enabling seamless interaction between teachers and students during live sessions .
+- Implemented secure RESTful APIs with JWT authentication, role-based access control, and a clean DTO-based architecture.
+- Collaborated within an Agile team environment, working closely with frontend developers, QA engineers, and DevOps to deliver features end-to-end .
+
+---
+
+## 🎓 Education
+
+### 🏫 Al-Azhar University — Bachelor's in Computer Science Engineering  
+**Oct 2021 – Jun 2025**  
+- Grade: **Very Good**  
+- Engaged in extracurricular activities and development communities.
+
+---
+
+## ⚡ Hobbies
+
+🏋️ Gym  
+💻 Coding  
+🧠 Diving into low-level computer engineering concepts.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:abdoatiaa542@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/201225280967"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdelrahman-abdalla-atiia-1a042b344/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/abdoatiaa542"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-### <picture> <img src = "pictures/backend.gif" width = 50px>  </picture> Backend Development :<br>
-<p align="center"> 
-&emsp; 
-  <a href="https://www.spring.io/" target="_blank"> 
-   <img alt="Spring" src="https://www.pngkey.com/png/full/346-3466483_spring-logo-spring-framework.png" width=150px>
-  </a>  
-  &emsp; 
-  <a href="https://hibernate.org/" target="_blank"> 
-   <img alt="Hibernate" src="pictures/Hibernate_logo_a.png" width=200px>
-  </a>  
-</p>
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools :<br>
+---
+
+## 💻 Languages & Tools
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="OracleDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-%231877F2.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" height="40"/>
+</p
+
+---
+
+## 🧰 Tech Toolbox
+
+### 🗣️ Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23004880.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🧩 Frameworks & Libraries
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005599.svg?style=for-the-badge&logo=thymeleaf&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+
+### ⚙️ Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-%231877F2.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  &emsp;
-    <a href="Git"><img alt="Git" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width=50px></a>
-  &emsp;
-    <a href="Github"><img alt="GitHub" src="pictures/github.png" width=50px></a>
-  &emsp;
-  <a href="Postman"><img alt="Postman" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width=50px></a>
-  &emsp;
-    <a href="Stack Overflow"><img alt="Stack Overflow" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width=50px></a>
-  &emsp;
-    <a href="json"><img alt="JSON" img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/JSON_vector_logo.svg/1200px-JSON_vector_logo.svg.png" width=50px></a>
-    &emsp;
-    <a href="mysql"><img src="pictures/mySqlLogo.png"width=70px></a>
-    &emsp;
-    <a href="Maven"><img src="pictures/maven-apache.jpg"width=90px></a>
-    &emsp;
-    <a href="Geekf For Geeks"><img alt="Geekf For Geeks" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" width=70px></a>
-    &emsp;
-    <a href="javaTpoint"><img alt="javaTpoint" src="pictures/javaTpoint.jpeg" width=90px></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdoatiaa542&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs :<br>
- 
 <p align="center">
-  &emsp;
-    <a href="vs-code"><img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width=50px></a>
-  &emsp;
-    <a href="IntelliJ"><img alt="JetBrain" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" width=50px></a>
-    &emsp;
-    <a href="Clion"><img alt="Clion" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" width=50px></a>
-    &emsp;
-    <a href="Neetbeans"><img alt="Neetbeans" src="pictures/1200px-Apache_NetBeans_Logo.svg.png" width=50px></a>
-    &emsp;
-    <a href="Eclips"><img alt="eclips" src="pictures/Eclipse-Luna-Logo.svg.png" width=250px></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoatiaa542&langs_count=8&theme=tokyonight&layout=compact" alt="Top Languages">
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving :<br>
- 
 <p align="center">
-  &emsp;
-    <a href="https://codeforces.com/profile/AbdoAtiia542"><img alt = "Codeforces" src="https://codeforces.com/predownloaded/ef/18/ef18d60f29c572514c03183827e1d797145d4149.png" width=60px/></a>	
+  <img src="https://komarev.com/ghpvc/?username=abdoatiaa542&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/abdoatiaa542?label=Followers&style=social" alt="GitHub Followers">
 </p>
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p><br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-## <picture> <img src="https://cdn-icons-png.flaticon.com/128/7471/7471685.png" width="25px"> </picture> Contact me via :<br> 
-<p align="center">
-	<a href="mailto:abdoatiaa542@gmail.com"><img img src="pictures/Gmail_icon_(2020).svg.png" alt="Gmail" width=60px></a> 
-	<a href="https://wa.me/0201225280967"><img src="pictures/WhatsApp.svg.webp" alt="Whatsapp" width=50px></a>
-	<a href="https://www.linkedin.com/in/abdelrahman-abdalla-atiia-1aa753230/"><img src="pictures/600px-LinkedIn_logo_initials.webp" alt="LinkedIn" width=50px></a>
-</p>
+
+---
+
+<div align="center">
+  <h3>🚀 Let's Build the Future Together! 🚀</h3>
+</div>
