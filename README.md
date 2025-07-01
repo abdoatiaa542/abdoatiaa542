@@ -20,7 +20,7 @@
 
 <br><br>
 <p align="center"><img src="pictures/views.gif" width="50" alt="views"></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=abdullahabdelglil" alt="abdullahabdelglil" width="150"> </p>
+="abdullahabdelglil" width="150"> </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -117,15 +117,15 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahabdelglil&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanAbdallaAtiia&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahabdelglil&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelrahmanAbdallaAtiia&theme=radical" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahabdelglil&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanAbdallaAtiia&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 <br>
