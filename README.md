@@ -22,7 +22,7 @@ Hi there! I'm **Abdelrahman**, a **24-year-old Back-End Engineer with 2 years of
 ## 💼 Professional Experience
 
 ### 🏢 X-TECH — Backend Developer  
-**Mar 2025 – Present**
+**fev 2024 – feb 2025**
 
 - Developed backend systems for a **traffic monitoring solution** for Egypt’s Ministry of Interior using **Java**, **Spring Boot**, and **MongoDB**.
 - Built features for a **secure messaging platform** used by government entities in Dubai, working with **Traefik**, **Docker**, **OPA**, **MQTT**, and **Redis**.
@@ -31,7 +31,7 @@ Hi there! I'm **Abdelrahman**, a **24-year-old Back-End Engineer with 2 years of
 
 
 ### 🏢 I-SOFT INTL — Backend Developer  
-**sep 2024 – JUN 2025**
+**Mar 2025 – present**
 
 - Developed backend systems for an educational platform commissioned by the Ministry of Education in Morocco, using Java, Spring Boot, and MySQL to support digital learning across the country .
 - Built real-time communication features with WebSocket, enabling seamless interaction between teachers and students during live sessions .
@@ -42,8 +42,7 @@ Hi there! I'm **Abdelrahman**, a **24-year-old Back-End Engineer with 2 years of
 
 ## 🎓 Education
 
-### 🏫 Al-Azhar University — Bachelor's in Computer Science Engineering  
-**Oct 2021 – Jun 2025**  
+### 🏫 Al-Azhar University — Bachelor's in Computer Science Engineering   
 - Grade: **Very Good**  
 - Engaged in extracurricular activities and development communities.
 
