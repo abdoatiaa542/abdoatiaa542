@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=1BF766&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Profile!;Back-End+Engineer+|+Spring+Boot+Specialist+🚀;Clean+Code+Advocate+|+OOP+%26+SOLID+Expert+✨;Collaborate+to+Innovate+%F0%9F%94%A5" alt="Typing SVG">
-</div>
+
 
 <h1 align="center">🌟 Abdelrahman Abdalla Atiia 🌟</h1>
 <h3 align="center">Curious Back-End Engineer | Java Enthusiast | Problem Solver</h3>
